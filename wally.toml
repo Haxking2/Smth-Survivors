@@ -1,0 +1,11 @@
+[package]
+name = "haxca/smth-survivors"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+Trove = "sleitnick/trove@1.0.0"
+binder = "hahafunnyman/binder@0.2.0"
+signal = "sleitnick/signal@1.5.0"
+roact = "roblox/roact@1.4.4"
